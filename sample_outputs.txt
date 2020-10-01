@@ -1,0 +1,21 @@
+Created parking of 4 slots
+Car with vehicle registration number "KA-01-HH-1234" has been parked at slot number 1
+Car with vehicle registration number "PB-01-HH-1234" has been parked at slot number 2
+Car PB-01-HH-1234 is already present inside SquadParkingLot
+Car with vehicle registration number "PB-01-HH-1233" has been parked at slot number 3
+Car with vehicle registration number "PB-01-HH-1533" has been parked at slot number 4
+1,2,3,4
+KA-01-HH-1234,PB-01-HH-1234,PB-01-HH-1233,PB-01-HH-1533
+1
+2
+3
+4
+Slot number 4 vacated, the car with vehicle registration number "PB-01-HH-1533" left the space, the driver of the car was of age 15
+Invalid driver age
+No car with regNo PB-01-HH-1134 is present in Parking Lot
+slot 4 is already empty
+slot 0 do not exist
+Slot number 1 vacated, the car with vehicle registration number "KA-01-HH-1234" left the space, the driver of the car was of age 15
+Car with vehicle registration number "HR-29-TG-3098" has been parked at slot number 1
+
+PB-01-HH-1234,PB-01-HH-1233
